@@ -127,3 +127,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+tmp/
+data/
+dataset/
+lectures/
+baseline/
+_livrable/
+_private/
+_logs/
+_img/
+.vscode/
+bootstrap-emr/
+
+# Spark savings
+*.csv/
+*.json/
+*.parquet/
+*.pqt/
+
+
